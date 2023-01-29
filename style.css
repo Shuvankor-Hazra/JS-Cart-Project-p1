@@ -1,0 +1,102 @@
+/* 
+Header area CSS
+*/
+.header-area {
+  background-color: #2b3035;
+}
+
+.header-area .navbar-brand {
+  color: #fff;
+}
+
+.header-area .nav-link.active {
+  color: #fff;
+}
+
+.header-area .nav-link {
+  color: #ccc;
+  margin-left: 25px;
+}
+
+/* 
+Main Area CSS
+*/
+.main-area {
+  padding: 45px 0;
+}
+
+/* 
+Product Area CSS
+*/
+.product-area {
+  padding-top: 30px;
+}
+
+.single-product {
+  margin-bottom: 30px;
+  border: 3px solid #ededed;
+  padding: 10px;
+}
+
+.single-product img {
+  width: 100%;
+}
+
+.single-product h5 {
+  font-size: 22px;
+  margin-top: 5px;
+}
+
+.single-product h3 {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.single-product p {
+  font-size: 14px;
+}
+
+/* Cart Area CSS */
+.cart-product {
+  margin-bottom: 30px;
+  border: 3px solid #ededed;
+  padding: 10px;
+  position: relative;
+}
+.cart-product img {
+  width: 20%;
+}
+
+.cart-product h3 {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.cart-product h5 {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.cart-product button {
+  border: none;
+  background-color: #ededed;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+/* 
+Footer Area CSS
+*/
+.footer-area {
+  background-color: #2b3035;
+  text-align: center;
+  padding: 15px 0;
+  border-top: 1px solid #555;
+  margin-top: 100px;
+}
+
+.footer-area p {
+  margin-bottom: 0;
+  color: #fff;
+}

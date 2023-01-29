@@ -1,0 +1,44 @@
+[
+    {
+        "id": "id1",
+        "name": "HP EliteBook 840",
+        "image": "https://i.ibb.co/ZxPJYKr/1.png",
+        "text": "HP EliteBook 840 G3 Processor: 6th Generation Intel® Core™ i5-6300U Processor",
+        "price": 350
+    },
+    {
+        "id": "id2",
+        "name": "OnePlus 8 Pro",
+        "image": "https://i.ibb.co/1KHw46q/2.png",
+        "text": "DISPLAY Type Fluid AMOLED, 1B colors, 120Hz, HDR10+ Size 6.78 inches, 111.7 cm2",
+        "price": 288
+    },
+    {
+        "id": "id3",
+        "name": "Apple watch series",
+        "image": "https://i.ibb.co/Lt87pcv/3.png",
+        "text": "Overview Originally released October 2021 S7 with 64-bit dual-core processor Electrical",
+        "price": 210
+    },
+    {
+        "id": "id4",
+        "name": "Xiaomi Haylou GT7",
+        "image": "https://i.ibb.co/gWtP95Y/4.png",
+        "text": "Key Features Model: Haylou GT7 Low-latency Game Mode Advanced Bluetooth 5.2 AAC",
+        "price": 49
+    },
+    {
+        "id": "id5",
+        "name": "Xiaomi Haylou RS4",
+        "image": "https://i.ibb.co/r7kYRrm/5.png",
+        "text": "Model: Haylou RS4 LS12 1.78 (368 x 448) AMOLED HD Display 12 workout modes, Alipay",
+        "price": 65
+    },
+    {
+        "id": "id6",
+        "name": "Joyroom JR-ML03",
+        "image": "https://i.ibb.co/VLqLM2F/6.png",
+        "text": "Brand: Joyroom Bluetooth version: 5.1 Supported protocols: HSP/HFP/A2DP",
+        "price": 29
+    }
+]
